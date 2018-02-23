@@ -1,6 +1,6 @@
 {
   "name": "go-bin-deb",
-  "version" : "0.1.0",
+  "version" : "0.0.19+kosuke-",
   "maintainer": "mh-cbon <mh-cbon@users.noreply.github.com>",
   "description": "Create binary package for debian system",
   "homepage": "http://github.com/mh-cbon/!name!",

@@ -6,5 +6,5 @@ clean:
 build:
 	go build -o build/amd64/go-bin-deb
 
-deb:
+deb: clean build
 	go-bin-deb generate --arch amd64
