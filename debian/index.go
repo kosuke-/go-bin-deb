@@ -12,9 +12,9 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/kosuke-/go-bin-deb/stringexec"
+	"github.com/kosuke-/verbose"
 	"github.com/mattn/go-zglob"
-	"github.com/mh-cbon/go-bin-deb/stringexec"
-	"github.com/mh-cbon/verbose"
 )
 
 var logger = verbose.Auto()
